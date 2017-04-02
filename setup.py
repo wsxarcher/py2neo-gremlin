@@ -29,7 +29,7 @@ setup(
     author= "Nigel Small, Fabian Yamaguchi",
     author_email="nigel@nigelsmall.com, fabs@goesec.de",
     
-    install_requires = ["py2neo >= 1.6.1"],
+    install_requires = ["py2neo == 2.0"],
 
     packages=[
         "py2neo_gremlin",
